@@ -12,4 +12,3 @@ Well...you can begin to use Tensorflow Object Detection and Python to help close
 
 <img src="https://github.com/akylson/real-time-sign-language-detection/blob/main/signs.jpg">
 <br><br>
-<iframe src="https://www.facebook.com/plugins/video.php?height=422&href=https%3A%2F%2Fwww.facebook.com%2Fkakylson%2Fvideos%2F5173152876035660%2F&show_text=false&width=560" width="560" height="422" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
