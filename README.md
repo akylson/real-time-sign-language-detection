@@ -10,5 +10,5 @@ But what about for those that maybe don't speak or can't hear?
 
 Well...you can begin to use Tensorflow Object Detection and Python to help close that gap. And in this repository, you'll find the code how to take the first steps to doing just that! In this repository, you'll learn how to build an end-to-end custom object detection model that allows you to translate sign language in real time. 
 
-<img src="https://github.com/akylson/real-time-sign-language-detection/blob/main/signs.jpg">
+<img width=60% src="https://github.com/akylson/real-time-sign-language-detection/blob/main/signs.jpg">
 <br><br>
